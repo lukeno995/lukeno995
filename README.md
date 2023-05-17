@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Moggio</h1>
 <h3 align="center">Hello! I'm a Salesforce Developer passionate about creating innovative solutions using the Salesforce platform. I specialize in developing custom applications, system integrations, and automating business processes using Apex, Visualforce, Lightning Component Framework, and other Salesforce technologies.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/lukeno995](https://github.com/lukeno995)
+- 👨‍💻 All of my projects are available at [https://github.com/lukeno995](https://github.com/lukeno995?tab=repositories)
 
 - 📫 How to reach me **lucamoggio6@gmail.com**
 
